@@ -1,4 +1,5 @@
 Add(2,3)
+Add(8,9)
+factorial(5)
 szia
 Add(8,9)
-
